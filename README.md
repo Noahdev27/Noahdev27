@@ -37,9 +37,9 @@ Building digital solutions for Africa 🌍
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=noahdev27&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Noahdev27&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahdev27&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noahdev27&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
@@ -49,7 +49,7 @@ Building digital solutions for Africa 🌍
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=noahdev27&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Noahdev27&theme=tokyonight" />
 
 </p>
 
@@ -59,7 +59,7 @@ Building digital solutions for Africa 🌍
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=noahdev27&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Noahdev27&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -67,13 +67,13 @@ Building digital solutions for Africa 🌍
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noahdev27&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noahdev27&theme=tokyo-night" />
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/noahdev27/noahdev27/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Noahdev27/Noahdev27/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
