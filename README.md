@@ -27,7 +27,7 @@ Building digital solutions for Africa 🌍
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma,androidstudio,supabase,postgresql,leaflet,capacitor,photoshop," />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma,androidstudio,supabase,postgresql,mysql,photoshop,illustrator" />
 
 </p>
 
@@ -73,7 +73,7 @@ Building digital solutions for Africa 🌍
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Noahdev27/Noahdev27/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
