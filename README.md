@@ -13,7 +13,7 @@ Building digital solutions for Africa 🌍
 - 💻 Passionate about Web & Mobile Development
 - 🌍 Building impactful tech solutions for Africa
 - 🚀 Currently working on innovative projects
-- 📫 Reach me at **noah.development7@gmail.com**
+- 📫 Reach me at **ngandeu.noe27@gmail.com**
 
 ---
 
@@ -27,7 +27,7 @@ Building digital solutions for Africa 🌍
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma,androidstudio,supabase,postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma,androidstudio,supabase,postgresql,leaflet,capacitor,photoshop," />
 
 </p>
 
@@ -85,7 +85,7 @@ Building digital solutions for Africa 🌍
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:noah.development7@gmail.com">
+<a href="mailto:ngandeu.noe27@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
