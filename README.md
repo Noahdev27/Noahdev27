@@ -27,7 +27,7 @@ Building digital solutions for Africa 🌍
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma,androidstudio,supabase,postgresql,mysql,photoshop,illustrator,docker,prisma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwindcss,vue,vite,nodejs,git,github,vscode,figma,androidstudio,supabase,postgresql,mysql,photoshop,illustrator,docker,prisma,typescript,markdown,notion,firebase,discord" />
 
 </p>
 
