@@ -65,14 +65,14 @@ I build digital products designed for **African users and businesses** 🌍
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-<img src="./profile/top-langs.svg" height="165" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/Noahdev27/Noahdev27/output/stats.svg" height="165" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Noahdev27/Noahdev27/output/top-langs.svg" height="165" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Noahdev27&background=0d1117&border=30363d&stroke=30363d&ring=009E49&fire=CE1126&currStreakNum=FCD116&sideNums=FCD116&currStreakLabel=009E49&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub streak" />
 
 <br /><br />
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution calendar" />
+<img src="https://raw.githubusercontent.com/Noahdev27/Noahdev27/output/profile-3d.svg" width="100%" alt="3D contribution calendar" />
 
 </div>
 
