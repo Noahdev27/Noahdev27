@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Hi%20👋,%20I'm%20Noah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Hi,%20I%27m%20Noah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://noah-development.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;Building+digital+solutions+for+Africa+🌍" alt="Typing SVG" />
@@ -42,7 +42,7 @@ const noah = {
 <table align="center">
   <tr>
     <td align="center" width="170"><b>💬 Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,python,html,css,markdown&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,html,css,md&perline=8" /></td>
   </tr>
   <tr>
     <td align="center"><b>🎨 Frontend</b></td>
@@ -66,7 +66,7 @@ const noah = {
   </tr>
   <tr>
     <td align="center"><b>🧰 Tools & Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop,illustrator,notion,discord&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps,ai,notion,discord&perline=8" /></td>
   </tr>
 </table>
 
@@ -76,8 +76,8 @@ const noah = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Noahdev27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noahdev27&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="170" alt="Top languages" />
+<img src="./profile/stats.svg" height="170" alt="GitHub stats" />
+<img src="./profile/top-langs.svg" height="170" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Noahdev27&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 
@@ -85,21 +85,11 @@ const noah = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌌 3D Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Noahdev27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noahdev27&theme=tokyo-night&hide_border=true&radius=10" width="100%" alt="Contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
 
 </div>
 
