@@ -53,7 +53,7 @@ I build digital products designed for **African users and businesses** 🌍
   </tr>
   <tr>
     <td align="center"><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,netlify,vercel&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,gitlab,netlify,vercel&perline=8" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
